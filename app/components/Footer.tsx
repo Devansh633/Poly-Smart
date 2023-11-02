@@ -1,11 +1,11 @@
 import React from 'react'
-
+import Image from 'next/image';
 const Footer = () => {
   return (
     <div>
       <footer className="footer footer-center p-10 bg-[#F7F9FF] text-[#0B0C10]">
   <aside>
-    <img src="https://drive.google.com/uc?id=1XVN-CvEpee4ifMOFeWqYOoZZ460O303O" alt="" className="md:w-[10rem] w-[7rem] " />
+    <Image src="https://drive.google.com/uc?id=1XVN-CvEpee4ifMOFeWqYOoZZ460O303O" className="md:w-[10rem] w-[7rem] " alt="" width={10000} height={10000}/>
     <p className="font-bold">
       Poly Smart Ltd. <br/>Providing Flexible Packaging Solutions since 2016
     </p> 

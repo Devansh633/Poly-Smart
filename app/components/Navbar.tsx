@@ -1,7 +1,7 @@
 'use client'
 import { Link } from "react-scroll";
 import React from 'react'
-
+import Image from 'next/image';
 export interface INavbarProps {
 
 }
@@ -25,7 +25,7 @@ const Navbar:React.FunctionComponent<INavbarProps> = () => {
             </ul>
           </div>
           <button className="text-[#f7f8fa]">
-          <Link to="hero" spy={true} smooth={true}  offset={-80} duration={500}><img src="https://drive.google.com/uc?id=1XVN-CvEpee4ifMOFeWqYOoZZ460O303O" alt="" className="md:w-[10rem] w-[7rem] "/></Link>
+          <Link to="hero" spy={true} smooth={true}  offset={-80} duration={500}><Image src="https://drive.google.com/uc?id=1XVN-CvEpee4ifMOFeWqYOoZZ460O303O" className="md:w-[10rem] w-[7rem] " alt="" width={10000} height={10000}/></Link>
           </button>
         </div>
         <div className=" lg:flex hidden">
