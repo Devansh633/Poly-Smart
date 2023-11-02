@@ -25,7 +25,7 @@ const Navbar:React.FunctionComponent<INavbarProps> = () => {
             </ul>
           </div>
           <button className="text-[#f7f8fa]">
-          <Link to="hero" spy={true} smooth={true}  offset={-80} duration={500}><img src="/images/logo.png" alt="" className="md:w-[5rem] w-[4rem] "/></Link>
+          <Link to="hero" spy={true} smooth={true}  offset={-80} duration={500}><img src="https://drive.google.com/uc?id=1mJZ2ZKR9VKT10pHILAgVGUkHpDLiXaeY" alt="" className="md:w-[10rem] w-[7rem] "/></Link>
           </button>
         </div>
         <div className=" lg:flex hidden">

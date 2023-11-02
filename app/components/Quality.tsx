@@ -7,13 +7,8 @@ const Quality = () => {
         <div className=" align-top ">
           <div>
             <h1 className="text-4xl md:text-5xl font-bold text-[#01bf71]">Quality</h1>
-            <p className="py-6 text-xl md:text-2xl text-[#f7f8fa]">We are committed to offer complete quality assurance to our
-                          clients. Our entire range of products is known for its strength and
-                          durability.We check the quality and quantity prior to final delivery of
-                          our products. Our company follows strict quality standards to ensure
-                          that our products meet the relevant industry standards. We conduct
-                          various quality checks at every level to assure our clients top notch
-                          quality products.</p>
+            <p className="py-6 text-xl md:text-2xl text-[#f7f8fa]">We are committed to offer complete quality assurance to our clients. Our entire range of products is known for its strength and durability. We check the quality and quantity prior to final delivery of our products. Our company follows strict quality standards to ensure that our products meet the relevant industry standards. We conduct various quality checks at every level to assure our clients top notch quality products.
+</p>
           </div>
         </div>
       </div>

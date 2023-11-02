@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
       <footer className="footer footer-center p-10 bg-[#F7F9FF] text-[#0B0C10]">
   <aside>
-    <img src="/images/logo.png" alt="" className="md:w-[7rem] w-[5rem] " />
+    <img src="https://drive.google.com/uc?id=1mJZ2ZKR9VKT10pHILAgVGUkHpDLiXaeY" alt="" className="md:w-[10rem] w-[7rem] " />
     <p className="font-bold">
       Poly Smart Ltd. <br/>Providing Flexible Packaging Solutions since 2016
     </p> 
