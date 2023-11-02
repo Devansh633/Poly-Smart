@@ -18,24 +18,24 @@ const Machinery = () => {
                         <div className="grid grid-cols-2  gap-1">
                             <div className="grid gap-2">
                                 <div>
-                                    <Image className="h-auto max-w-[80%] rounded-lg" src="https://drive.google.com/uc?id=1oIYGoAzJaP7-8DJMeEo4cM6BwxH6tn7a" alt="" width={10000} height={10000}/>
+                                    <Image className="h-auto max-w-[80%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/m1.webp" alt="" width={10000} height={10000}/>
                                 </div>
                                 <div>
-                                    <Image className="h-auto max-w-[80%] rounded-lg" src="https://drive.google.com/uc?id=1hpe4nHagCNiYxKF20WpjabijGvzsSmFB" alt="" width={10000} height={10000}/>
+                                    <Image className="h-auto max-w-[80%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/m2.webp" alt="" width={10000} height={10000}/>
                                 </div>
                                 <div>
-                                    <Image className="h-auto max-w-[80%] rounded-lg" src="https://drive.google.com/uc?id=1r-DmohRl_3oYMlkuKuclXUi-GQvtp2bp" alt="" width={10000} height={10000}/>
+                                    <Image className="h-auto max-w-[80%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/m3.webp" alt="" width={10000} height={10000}/>
                                 </div>
                             </div>
                             <div className="grid gap-2">
                                 <div>
-                                    <Image className="h-auto max-w-[80%] rounded-lg" src="https://drive.google.com/uc?id=14oO4Fgs7mIIasdk95__ffy2nHuxxFh0F" alt="" width={10000} height={10000}/>
+                                    <Image className="h-auto max-w-[80%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/m4.webp" alt="" width={10000} height={10000}/>
                                 </div>
                                 <div>
-                                    <Image className="h-auto max-w-[80%] rounded-lg" src="https://drive.google.com/uc?id=1QuM2zfKlZUQ-VIzqDOMh9M-HMlldEkDh" alt="" width={10000} height={10000}/>
+                                    <Image className="h-auto max-w-[80%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/m5.webp" alt="" width={10000} height={10000}/>
                                 </div>
                                 <div>
-                                    <Image className="h-auto max-w-[80%] rounded-lg" src="https://drive.google.com/uc?id=16U7xNBXh0dssAo3xiCGNFWu8KxvZS90V" alt="" width={10000} height={10000}/>
+                                    <Image className="h-auto max-w-[80%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/m6.webp" alt="" width={10000} height={10000}/>
                                 </div>
                             </div>
                         </div>

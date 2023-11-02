@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <div id='hero'>
-        <div className="hero min-h-screen" style={{backgroundImage: 'url(https://drive.google.com/uc?id=1LGcgy2xnFOn10P35n8E3y7DckZOw98st)'}}>
+        <div className="hero min-h-screen" style={{backgroundImage: 'url(https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/hero2.webp)'}}>
   <div className="hero-overlay bg-opacity-20"></div>
   <div className="hero-content text-center text-neutral-content">
     <div className="max-w-md">

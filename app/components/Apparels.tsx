@@ -50,49 +50,49 @@ const Apparels = () => {
         <div className='flex md:gap-[5rem] gap-[2rem] h-auto flex-wrap px-[2rem] justify-center'>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <Image className='rounded-lg' src="https://drive.google.com/uc?id=1nQEQyb9YjGrE4JqGao_gU_LlqQlKolGl" alt="" width={10000} height={10000}/>
+                    <Image className='rounded-lg' src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/w6.webp" alt="" width={10000} height={10000}/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Paper Patti</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <Image className='rounded-lg' src="https://drive.google.com/uc?id=1MZO_f5Z3ZN3am9xNZ382Qdmk0kF3PTL1" alt="" width={10000} height={10000}/>
+                    <Image className='rounded-lg' src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/w7.webp" alt="" width={10000} height={10000}/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>PVC Butterfly</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <Image className='rounded-lg' src="https://drive.google.com/uc?id=18OGTA08_J-oqzQqmnVuUPM-DnfRBbz_q" alt="" width={10000} height={10000}/>
+                    <Image className='rounded-lg' src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/w8.webp" alt="" width={10000} height={10000}/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Pins and Cables</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <Image className='rounded-lg' src="https://drive.google.com/uc?id=1cIUQ68_8uEnYJuHQ-ySlfVo2dlLcDQ6u" alt="" width={10000} height={10000}/>
+                    <Image className='rounded-lg' src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/w1.webp" alt="" width={10000} height={10000}/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Collar Stay</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <Image className='rounded-lg' src="https://drive.google.com/uc?id=1AScU_wuHGJ96tj1zjc0H9tR9LOMBV5bT" alt="" width={10000} height={10000}/>
+                    <Image className='rounded-lg' src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/w3.webp" alt="" width={10000} height={10000}/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Cardboard Inserter</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <Image className='rounded-lg' src="https://drive.google.com/uc?id=1la3m_i8iO_Ha3T8nV0cdo1QlIaVC46hy" alt="" width={10000} height={10000}/>
+                    <Image className='rounded-lg' src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/w4.webp" alt="" width={10000} height={10000}/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Clips</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <Image className='rounded-lg' src="https://drive.google.com/uc?id=1ZIcW8BmPSfKxlDQhRaX0ElUV2ftwl4Mf" alt="" width={10000} height={10000}/>
+                    <Image className='rounded-lg' src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/w2.webp" alt="" width={10000} height={10000}/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Back Support</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <Image className='rounded-lg' src="https://drive.google.com/uc?id=1CXxG2A-5qMOGr6Ga3c5IKtR2nfAeQmTp" alt="" width={10000} height={10000}/>
+                    <Image className='rounded-lg' src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/w5.webp" alt="" width={10000} height={10000}/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Printed Tissue</p>
             </div>

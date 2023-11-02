@@ -11,55 +11,55 @@ const Clients = () => {
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                 <div className="grid gap-4">
                     <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=18y3vftHkND8OuT_5Kobmzjj5dYGATwR8" alt="" width={10000} height={10000}/>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c1.webp" alt="" width={10000} height={10000}/>
                     </div>
                     <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=17WNpyIsNw9r_U94g-QAgXB4SvSzz4k_8" alt="" width={10000} height={10000}/>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c2.webp" alt="" width={10000} height={10000}/>
                     </div>
                     <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1Knlt4e07FYQ7dJeM_UNTfirEpDEvW8lK" alt="" width={10000} height={10000}/>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c3.webp" alt="" width={10000} height={10000}/>
                     </div>
                     <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=12xjKr0p6e6icWJdKrrse5JQqttqheU-d" alt="" width={10000} height={10000}/>
-                    </div>
-                </div>
-                <div className="grid gap-4">
-                    <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1y8EvipURIQPn9lwMcd1mcYCIShXtXFx2" alt="" width={10000} height={10000}/>
-                    </div>
-                    <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1aoNLouH0-hkfUnHAqv_cl8r3T_Of60O1" alt="" width={10000} height={10000}/>
-                    </div>
-                    <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=17urV3uBSHuHuCfCLE-xXS3V2c1KWrFJj" alt="" width={10000} height={10000}/>
-                    </div>
-                    <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1KGryq7HK9oL1MqNuUnvUy01pPrMQxgo_" alt="" width={10000} height={10000}/>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c4.webp" alt="" width={10000} height={10000}/>
                     </div>
                 </div>
                 <div className="grid gap-4">
                     <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1TNZsLRYHPZTDoEoF9fyHF6EZZrpXtund" alt="" width={10000} height={10000}/>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c5.webp" alt="" width={10000} height={10000}/>
                     </div>
                     <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1ARy4JP7Ks5dXQ9uEQ5840cPs51G2P-4w" alt="" width={10000} height={10000}/>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c6.webp" alt="" width={10000} height={10000}/>
                     </div>
                     <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1HDVl0c0ffHBrVZC818mfdE7Wc6UXKsXx" alt="" width={10000} height={10000}/>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c7.webp" alt="" width={10000} height={10000}/>
                     </div>
                     <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1du-rNLodYe8Lzwi6lC23AubPTVnoFUEB" alt="" width={10000} height={10000}/>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c8.webp" alt="" width={10000} height={10000}/>
                     </div>
                 </div>
                 <div className="grid gap-4">
                     <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1JpFSUbjhGrXDK5ee4btvHn9RIWkgG_qi" alt="" width={10000} height={10000}/>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c9.webp" alt="" width={10000} height={10000}/>
                     </div>
                     <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1EvA8cV9pmqYwbrlvCmtkLTOZ0Pl_hJkO" alt="" width={10000} height={10000}/>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c10.webp" alt="" width={10000} height={10000}/>
                     </div>
                     <div>
-                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1NCNwR9lFhokgCTXG66g601yg5L8NkM8x" alt="" width={10000} height={10000}/>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c11.webp" alt="" width={10000} height={10000}/>
+                    </div>
+                    <div>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c12.webp" alt="" width={10000} height={10000}/>
+                    </div>
+                </div>
+                <div className="grid gap-4">
+                    <div>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c13.webp" alt="" width={10000} height={10000}/>
+                    </div>
+                    <div>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c14.webp" alt="" width={10000} height={10000}/>
+                    </div>
+                    <div>
+                        <Image className="h-auto max-w-[70%] rounded-lg" src="https://raw.githubusercontent.com/Devansh633/Poly-Smart-Images/main/Poly-Smart-Images/c15.webp" alt="" width={10000} height={10000}/>
                     </div>
                 </div>
               </div>     
