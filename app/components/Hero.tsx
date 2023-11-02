@@ -8,7 +8,6 @@ const Hero = () => {
   <div className="hero-content text-center text-neutral-content">
     <div className="max-w-md">
       <h1 className="mb-5 text-4xl md:text-6xl font-bold text-[#01bf71]">POLY SMART</h1>
-      <p className="mb-5">Provident </p>
     </div>
   </div>
 </div>
