@@ -10,55 +10,55 @@ const Clients = () => {
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                 <div className="grid gap-4">
                     <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1YthFtLx4mPvoGqJlSYBpdtCLqRMvPJDB" alt=""/>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=18y3vftHkND8OuT_5Kobmzjj5dYGATwR8" alt=""/>
                     </div>
                     <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1JWY6hUz0fWd6abzNT9Fx8gMuGKL5viOz" alt=""/>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=17WNpyIsNw9r_U94g-QAgXB4SvSzz4k_8" alt=""/>
                     </div>
                     <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=14-sC1HzjqOL_7ASwnmO2g0ZDyWUAO6Vf" alt=""/>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1Knlt4e07FYQ7dJeM_UNTfirEpDEvW8lK" alt=""/>
                     </div>
                     <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1INMEn7YdNPu41TXpcgRLa0I-KiOqq5_3" alt=""/>
-                    </div>
-                </div>
-                <div className="grid gap-4">
-                    <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1003hExBW-lSZSU5ZjWOJA6TDrw74VJrU" alt=""/>
-                    </div>
-                    <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1WPR0OujzE2Y8Tnd7k3deWeLqMLYyFgLJ" alt=""/>
-                    </div>
-                    <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1GFq2nlkwlyOYX-mp20B4NR6D59cBrdKt" alt=""/>
-                    </div>
-                    <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=18RdLLV2qLj3ow_2w2EsUVkAKP9fGukeO" alt=""/>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=12xjKr0p6e6icWJdKrrse5JQqttqheU-d" alt=""/>
                     </div>
                 </div>
                 <div className="grid gap-4">
                     <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1I6yxNsOgfIGdgeNTiwouF1t0pOwQEDin" alt=""/>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1y8EvipURIQPn9lwMcd1mcYCIShXtXFx2" alt=""/>
                     </div>
                     <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1b8Q-ZThCxB3opg78XAw3hMK0WxUodjZZ" alt=""/>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1aoNLouH0-hkfUnHAqv_cl8r3T_Of60O1" alt=""/>
                     </div>
                     <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1sj-VexkYw6OpUcaWX2C2XW_WC2cb8TF5" alt=""/>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=17urV3uBSHuHuCfCLE-xXS3V2c1KWrFJj" alt=""/>
                     </div>
                     <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1hzC0jP_-zI0y8OzY6mJOFKWwxAfkoL-D" alt=""/>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1KGryq7HK9oL1MqNuUnvUy01pPrMQxgo_" alt=""/>
                     </div>
                 </div>
                 <div className="grid gap-4">
                     <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1T0eRWAyz7YxkvHFkGsOfsaLDY5Vcit-c" alt=""/>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1TNZsLRYHPZTDoEoF9fyHF6EZZrpXtund" alt=""/>
                     </div>
                     <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1djOifK9BpLSjYamrgUxpDZ8QSw-KZlYb" alt=""/>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1ARy4JP7Ks5dXQ9uEQ5840cPs51G2P-4w" alt=""/>
                     </div>
                     <div>
-                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1N0Z3Qt1VOno8tkScLJb79D2ercbPjbhb" alt=""/>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1HDVl0c0ffHBrVZC818mfdE7Wc6UXKsXx" alt=""/>
+                    </div>
+                    <div>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1du-rNLodYe8Lzwi6lC23AubPTVnoFUEB" alt=""/>
+                    </div>
+                </div>
+                <div className="grid gap-4">
+                    <div>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1JpFSUbjhGrXDK5ee4btvHn9RIWkgG_qi" alt=""/>
+                    </div>
+                    <div>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1EvA8cV9pmqYwbrlvCmtkLTOZ0Pl_hJkO" alt=""/>
+                    </div>
+                    <div>
+                        <img className="h-auto max-w-[70%] rounded-lg" src="https://drive.google.com/uc?id=1NCNwR9lFhokgCTXG66g601yg5L8NkM8x" alt=""/>
                     </div>
                 </div>
               </div>     

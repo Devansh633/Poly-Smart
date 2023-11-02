@@ -50,49 +50,49 @@ const Apparels = () => {
         <div className='flex md:gap-[5rem] gap-[2rem] h-auto flex-wrap px-[2rem] justify-center'>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <img className='rounded-lg' src="https://drive.google.com/uc?id=12tq91cKkLj6SG_K1XxSVBHNMgNz-dzry" alt=""/>
+                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1nQEQyb9YjGrE4JqGao_gU_LlqQlKolGl" alt=""/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Paper Patti</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1JJBErSfklB41k774Mmrkhy22b69BQD9e" alt=""/>
+                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1MZO_f5Z3ZN3am9xNZ382Qdmk0kF3PTL1" alt=""/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>PVC Butterfly</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <img className='rounded-lg' src="https://drive.google.com/uc?id=19rFyXOFlwaNuKhKu6kOez9T4oQQKATME" alt=""/>
+                    <img className='rounded-lg' src="https://drive.google.com/uc?id=18OGTA08_J-oqzQqmnVuUPM-DnfRBbz_q" alt=""/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Pins and Cables</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1lvDosrSsBDS8z9A6r2MJC5wnusppcyPI" alt=""/>
+                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1cIUQ68_8uEnYJuHQ-ySlfVo2dlLcDQ6u" alt=""/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Collar Stay</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1bDXNmIX3ERrrmH31j0f7C2r7Ki1c_G46" alt=""/>
+                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1AScU_wuHGJ96tj1zjc0H9tR9LOMBV5bT" alt=""/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Cardboard Inserter</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1B22RS2bR6RahBljCjWVvzuNbgr_JXOOq" alt=""/>
+                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1la3m_i8iO_Ha3T8nV0cdo1QlIaVC46hy" alt=""/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Clips</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1dIQeGMo9DSyKC9TeVY_DlR4HXffXGM4Y" alt=""/>
+                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1ZIcW8BmPSfKxlDQhRaX0ElUV2ftwl4Mf" alt=""/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Back Support</p>
             </div>
             <div className="p-[1rem] bg-[#0B0C10] rounded-lg md:w-[14rem] w-[11rem] h-fit">
                 <div className="">
-                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1XQQhAxcdqVvZf6rdwL6UXgPTqHilvrNW" alt=""/>
+                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1CXxG2A-5qMOGr6Ga3c5IKtR2nfAeQmTp" alt=""/>
                 </div>
                 <p className='text-[#F7F9FF] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Printed Tissue</p>
             </div>

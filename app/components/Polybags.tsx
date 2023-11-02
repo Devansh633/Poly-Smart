@@ -58,46 +58,46 @@ const Polybags = () => {
               <div className="grid grid-cols-2 md:grid-cols-4 gap-[1rem] sm:gap-[2rem] 2xl:gap-[4rem]">
                 <div className="grid gap-[1rem] sm:gap-[2rem] 2xl:gap-[4rem]">
                     <div className="max-w-[70%] rounded-lg" >
-                        <img className='rounded-lg' src="https://drive.google.com/uc?id=1OxtcZQWcUVGyIgjUySd_n2_BOJhuTDNj" alt=""/>
+                        <img className='rounded-lg' src="https://drive.google.com/uc?id=1Hu4YBvoBVkv1BkXoWRacMdQneab0-js2" alt=""/>
                     </div>
                     <div className="max-w-[70%] rounded-lg">
-                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1DYyolCaT9OZ6cAz_WPHJ5Ka11kXt93KN" alt=""/>
+                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1cd0syfPPbrY8OrpOM4aTXE_UMkUQLXQ0" alt=""/>
                     </div>
                     <div className="max-w-[70%] rounded-lg">
-                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1LEVIB67sa-WcEjWfxSF2OkYaW-N1Yj_W" alt=""/>
-                    </div>
-                </div>
-                <div className="grid gap-[1rem] sm:gap-[2rem] 2xl:gap-[4rem]">
-                    <div className="max-w-[70%] rounded-lg">
-                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=132OWxVvA9wi-U0j5OZhh9Y_j9wMPeDEz" alt=""/>
-                    </div>
-                    <div className="max-w-[70%] rounded-lg">
-                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1FviAsGA9gXHt_69YC9M5SYJPwHpMJ7F0" alt=""/>
-                    </div>
-                    <div className="max-w-[70%] rounded-lg">
-                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=11SqRMvf1nDYgIlegJnTsZ5b-f1I7481m" alt=""/>
+                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1hGwQXpt5jJMnzupZyw9YalxoUK5RCfmg" alt=""/>
                     </div>
                 </div>
                 <div className="grid gap-[1rem] sm:gap-[2rem] 2xl:gap-[4rem]">
                     <div className="max-w-[70%] rounded-lg">
-                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1EC_3uHrqzsRY86bPounRdOPjpjNMGOrz" alt=""/>
+                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1Bl7NCKNWrbXXGsxoE-bMx5IwyR69er8M" alt=""/>
                     </div>
                     <div className="max-w-[70%] rounded-lg">
-                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1d0jO--ZAEXdIqe8s_icgJkXtlO12qwhH" alt=""/>
+                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1Bx4fB1qkclg-UkCWgjs0qXGtsWAwdpHn" alt=""/>
                     </div>
                     <div className="max-w-[70%] rounded-lg">
-                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1hDPjnuC_KVOkYRpDl4JVTvr-VUdU6_Qa" alt=""/>
+                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1l2lPvNs2zCFqOyVJeSA5OduP5VXyjKKN" alt=""/>
                     </div>
                 </div>
                 <div className="grid gap-[1rem] sm:gap-[2rem] 2xl:gap-[4rem]">
                     <div className="max-w-[70%] rounded-lg">
-                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1HUeNwP1OXL85xOp2cidOZ7uR28qO3oCW" alt=""/>
+                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1daWS5IxIAVeHk_j5PkuLD931f4IhWGwe" alt=""/>
                     </div>
                     <div className="max-w-[70%] rounded-lg">
-                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=13ClV1BVWCgLTJ8nG5aVRUTojxT5orFKR" alt=""/>
+                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1X20ZuSKHslxtPPyLEXD_APPYXC9Me9LJ" alt=""/>
                     </div>
                     <div className="max-w-[70%] rounded-lg">
-                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1ZtF5QvjeK_pY-dwtTDEKEIeaTbSJeSOh" alt=""/>
+                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1g7VHPkIcWTbITsKJ8zzEwMeEb90XaW-J" alt=""/>
+                    </div>
+                </div>
+                <div className="grid gap-[1rem] sm:gap-[2rem] 2xl:gap-[4rem]">
+                    <div className="max-w-[70%] rounded-lg">
+                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1IHlfP6xELeguJypnEJaOFEitR9o0CFno" alt=""/>
+                    </div>
+                    <div className="max-w-[70%] rounded-lg">
+                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1MUKPfU4drHd_AL-bIxxndRFFggrVPui_" alt=""/>
+                    </div>
+                    <div className="max-w-[70%] rounded-lg">
+                        <img className='rounded-lg'  src="https://drive.google.com/uc?id=1U2091ZgA0J6nq4pSWY0I6PDzH-1iwQdq" alt=""/>
                     </div>
                 </div>
               </div>     
@@ -108,33 +108,33 @@ const Polybags = () => {
         <div className='flex md:gap-[5rem] gap-[2rem] h-auto flex-wrap px-[2rem] justify-center'>
             <div className="p-[1rem] bg-[#F7F9FF] rounded-lg md:w-[14rem] w-[11rem]">
                 <div className="">
-                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1-78-c0X9QyU_o05ZhJ6RAba3a-r-Urn9" alt=""/>
+                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1ipEm5eZfL2c_HO3KlA5ktidL_YcZDoCn" alt=""/>
                 </div>
                 <p className='text-[#0B0C10] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Bottom Sealing Polybag</p>
             </div>
             <div className="p-[1rem] bg-[#F7F9FF] rounded-lg md:w-[27rem] sm:w-[21rem] w-[17rem]">
                 <div className="flex gap-[1rem]">
-                    <img className='rounded-lg w-[7rem] sm:w-[9rem] md:w-[12rem]' src="https://drive.google.com/uc?id=1XhHMUsOm_lYkGqmREsF6cKEKlNc3w7BD" alt=""/>
-                    <img className='rounded-lg w-[7rem] sm:w-[9rem] md:w-[12rem]' src="https://drive.google.com/uc?id=1MitK6NhBlWrNYbRqKt_v4UGSVDOQyxjP" alt=""/>
+                    <img className='rounded-lg w-[7rem] sm:w-[9rem] md:w-[12rem]' src="https://drive.google.com/uc?id=1yseTw5QtFGFsdfR-lC6DC1qnPOtQSV9r" alt=""/>
+                    <img className='rounded-lg w-[7rem] sm:w-[9rem] md:w-[12rem]' src="https://drive.google.com/uc?id=1nbWXd9lm0nU2QLqxVo3P0C6Utoxpq7X6" alt=""/>
                 </div>
                 <p className='text-[#0B0C10] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Different Colour Polybag</p>
             </div>
             <div className="p-[1rem] bg-[#F7F9FF] rounded-lg md:w-[27rem] sm:w-[21rem] w-[17rem]">
                 <div className="flex gap-[1rem]">
-                    <img className='rounded-lg w-[7rem] sm:w-[9rem] md:w-[12rem]' src="https://drive.google.com/uc?id=1eUa3Px3sUMRyR5bbQE0OIx5rdiuzHVLO" alt=""/>
-                    <img className='rounded-lg w-[7rem] sm:w-[9rem] md:w-[12rem]' src="https://drive.google.com/uc?id=1MPJTPJksYl-yETGo_GkbyYM8W9NcX1PS" alt=""/>
+                    <img className='rounded-lg w-[7rem] sm:w-[9rem] md:w-[12rem]' src="https://drive.google.com/uc?id=1iKtZm5q3QUBST5NNDNMisRa_AzXv8idg" alt=""/>
+                    <img className='rounded-lg w-[7rem] sm:w-[9rem] md:w-[12rem]' src="https://drive.google.com/uc?id=1DlGQfuhy0pn5HZfFruo4CkqjN7j_VeHx" alt=""/>
                 </div>
                 <p className='text-[#0B0C10] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Ziplock Polybag</p>
             </div>
             <div className="p-[1rem] bg-[#F7F9FF] rounded-lg md:w-[14rem] w-[11rem]">
                 <div className="">
-                    <img className='rounded-lg' src="https://drive.google.com/uc?id=16exHbYmXiUmHkxlragnwdNAlxCXhtVmT" alt=""/>
+                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1mwUvg2Q2jMogknDEwyn402hv3bZ49Fbh" alt=""/>
                 </div>
                 <p className='text-[#0B0C10] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Hanger Cut Polybag</p>
             </div>
             <div className="p-[1rem] bg-[#F7F9FF] rounded-lg md:w-[14rem] w-[11rem]">
                 <div className="">
-                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1RyrY6AHE-t5KM3EhUSwuM8ZM7wqa8iNV" alt=""/>
+                    <img className='rounded-lg' src="https://drive.google.com/uc?id=1GfqTTrJt94LnXXLSG0S3WdfUu1AvqkSy" alt=""/>
                 </div>
                 <p className='text-[#0B0C10] text-sm sm:text-base md:text-xl text-center font-bold py-[0.5rem] md:py-[1rem]'>Stretch Film Roll</p>
             </div>

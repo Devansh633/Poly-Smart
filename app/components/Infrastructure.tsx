@@ -8,17 +8,17 @@ const Infrastructure = () => {
           <div className='max-w-[200px] md:max-w-[900px] mx-auto grid md:grid-cols-3 gap-8'>
             <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg bg-[#F7F9FF]'>
               <div className='mx-auto'>
-                <img src="https://drive.google.com/uc?id=1s0ADlPd6HPjo1_P-OPiRkOo1S8I4navj" />
+                <img src="https://drive.google.com/uc?id=1Ey4cX9wRwlEA_RgWUaOL-0XMIdj38RS6" />
               </div>
             </div>
             <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg bg-[#F7F9FF]'>
               <div className=' mx-auto  '>
-                <img src="https://drive.google.com/uc?id=1t0pUCxY1fn4kdkm-g9tXHIGaqDu-7kfB" />
+                <img src="https://drive.google.com/uc?id=1Xlm6ynvasPns2mcWXi-oGTryd6Hso9J6" />
               </div>
             </div>
             <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg bg-[#F7F9FF] '>
               <div className=' mx-auto '>
-                <img src="https://drive.google.com/uc?id=1kSJh5FXThLxsYifO87lUWH8qN_7y81Co" />
+                <img src="https://drive.google.com/uc?id=12Cpfaq11n7PsVKNX2vF4GbQ3HrBxXLrb" />
               </div>
             </div>
           </div>
