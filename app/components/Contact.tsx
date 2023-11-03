@@ -12,10 +12,11 @@ const Contact = () => {
               <Image src="https://drive.google.com/uc?id=1j12ZO5dRpRY5BLLg5pOps6dxJVzVefXJ" className='w-[70%] h-[70%]' alt="" width={10000} height={10000}/>
             </div>
             <p className="text-base md:text-xl text-[#F7F9FF] ml-4 flex items-center">
-              Poly Smart,
-              NO.28B, 15TH CROSS, 2ND MAIN
-              3RD BLOCK, VISHWAPRIYA LAYOUT,
-              BEGUR, BANGALORE - 560068
+              POLY SMART,
+     No. 303 to 307, STB Industrial EST Road
+     Haragadde, Anakal – Jignie Road,
+     Banglore -560105
+
             </p>
           </div>
 
