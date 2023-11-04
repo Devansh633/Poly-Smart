@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image';
 const Polybags = () => {
   return (
-    <div className='bg-[#0B0C10] py-[4rem]'>
+    <div className='bg-[#0B0C10] py-[4rem]' id='polybags'>
         <h1 className='text-2xl md:text-4xl font-bold px-[2rem] pl-[3rem] md:pl-[6rem] 2xl:pl-[13rem] 3xl:pl-[15rem] text-[#F7F9FF]'>Polybags</h1>
         <p className='text-xl md:text-2xl font-bold my-4 px-[2rem] pl-[3rem] md:pl-[6rem] 2xl:pl-[13rem] 3xl:pl-[15rem] text-[#F7F9FF]'>We are supplying<br/></p>
         <div className="flex flex-col md:flex-row justify-center mx-auto gap-6 md:gap-0 px-7 md:px-10 ">

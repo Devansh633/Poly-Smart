@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image';
 const Apparels = () => {
   return (
-    <div className='py-[4rem]'>
+    <div className='py-[4rem]' id='apparels'>
         <h1 className='text-2xl md:text-4xl font-bold px-[2rem] pl-[3rem] md:pl-[6rem] 2xl:pl-[13rem] 3xl:pl-[15rem] text-[#0B0C10]'>Apparels Packing Item</h1>
         <p className='text-xl md:text-2xl font-bold my-4 px-[2rem] pl-[3rem] md:pl-[6rem] 2xl:pl-[13rem] 3xl:pl-[15rem] text-[#0B0C10]'>POLY SMART is also one of largest manufacturer Apparel Packing item in South India. We manufacture PVC Collar Stays, Clips, Tags, Inseters, Back support  ETC.. We work with some of the largest names in the Indian Fashion space..</p>
         <p className='text-xl md:text-2xl font-bold my-4 px-[2rem] pl-[3rem] md:pl-[6rem] 2xl:pl-[13rem] 3xl:pl-[15rem] text-[#0B0C10]'>We are supplying</p>
